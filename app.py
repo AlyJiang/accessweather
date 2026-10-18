@@ -1,4 +1,3 @@
-     """AccessWeather: source-constrained preparedness prototype; no real-time data feed."""
 import json
 import os
 import re
